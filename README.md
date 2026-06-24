@@ -8,6 +8,9 @@ We start discussions with the required software necessary for this class and
 some software that could be useful!
 
 ## Git/GitHub
+A pre-dominate portion of this class will be on GitHub. Hence, students should 
+be particularly familiar with Git and GitHub. 
+
 ## Vivado
 ## Vitis
 ## UVM
