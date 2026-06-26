@@ -6,7 +6,7 @@ Pre-requisite knowledge, software, setup guides, and TA / past student recommend
 
 # Course Policy Reference
 
-> **Note:** These policies are borrowed from Bruce Land and are largely identical to those on the previous course webpage.
+> **Note:** Some of these policies are borrowed from Bruce Land and are largely identical to those on the previous course webpage.
 
 ---
 
