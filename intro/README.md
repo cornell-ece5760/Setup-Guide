@@ -14,15 +14,50 @@ Pre-requisite knowledge, software, setup guides, and TA / past student recommend
 
 ECE 5725 is strongly recommended. You will need working knowledge of:
 
-| Subject | What's expected |
-|---|---|
-| **Verilog** | Hardware design at the complexity level of a CPU; some familiarity with concurrent computing |
-| **C** | Every lab involves C running on an ARM processor that interfaces with your Verilog logic |
-| **Linux** | Basic shell commands and concepts (ECE 5725 covers this, but any prior exposure works) |
-| **Mathematics** | Solving ODEs, PDEs, and iterated systems so you can implement them numerically on the FPGA |
-| **Python** | Optional but useful |
+- **Verilog / SystemVerilog** — hardware description and sequential logic design
+- **C / C++** — software running on the ARM processor side
+- **Linux shell commands** — navigating and scripting in a Linux environment
+- **Mathematics** — ODEs, PDEs, numerical methods, parallel computation
+- **Python** *(optional but a plus)*
 
 When in doubt, talk to the instructor.
+
+---
+
+# Required Software
+
+## Git / GitHub
+
+> "Git is an extremely popular tool for software version control. Its primary purpose is to help engineers track their work, ensuring that they make incremental changes to files that they can later revert if necessary and also to help facilitate combining new code with older versions. When combined with a remote repository, GitHub, it also ensures that an online backup of the work is present."
+>
+> — Adapted from [Cornell CS 3410, "Git," Fall 2025](https://www.cs.cornell.edu/courses/cs3410/2025fa/rsrc/git.html)
+
+A significant portion of ECE 5760 work lives on GitHub. Private repos will be created for each group — keep them up to date so staff can:
+- Track your progress
+- Respond to [Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/learning-about-issues/quickstart) you open in your repo (link an issue to a private EdStem post for TA assistance)
+
+If you need to brush up on Git/GitHub fundamentals, see our quick overview [here]().
+
+---
+
+## Vivado
+
+*(Setup guide coming soon)*
+
+## Vitis
+
+*(Setup guide coming soon)*
+
+---
+
+## Other Software (Optional)
+
+Not required to complete the labs, but potentially useful:
+
+| Tool | Resource |
+|---|---|
+| **UVM (Verilator)** | [UVM Guide by Chipverify](https://chipverify.com/uvm/uvm-installation) |
+| **Cocotb** | [Cocotb Documentation](https://docs.cocotb.org/en/stable/#) |
 
 ---
 
@@ -228,55 +263,6 @@ If you are experiencing undue personal or academic stress, seek support early. A
 - **Let's Talk Drop-In Consultation** — [gannett.cornell.edu/Let'sTalk](http://www.gannett.cornell.edu/Let'sTalk)
 - **EARS Peer Support** — 255-EARS
 - **Student Disability Services (SDS)** — 420 CCC Building, 254-4545 (confidential)
-
----
-
-# Required Software
-
-## Git / GitHub
-
-> "Git is an extremely popular tool for software version control. Its primary purpose is to help engineers track their work, ensuring that they make incremental changes to files that they can later revert if necessary and also to help facilitate combining new code with older versions. When combined with a remote repository, GitHub, it also ensures that an online backup of the work is present."
->
-> — Adapted from [Cornell CS 3410, "Git," Fall 2025](https://www.cs.cornell.edu/courses/cs3410/2025fa/rsrc/git.html)
-
-A significant portion of ECE 5760 work lives on GitHub. Private repos will be created for each group — keep them up to date so staff can:
-- Track your progress
-- Respond to [Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/learning-about-issues/quickstart) you open in your repo (link an issue to a private EdStem post for TA assistance)
-
-If you need to brush up on Git/GitHub fundamentals, see our quick overview [here]().
-
----
-
-## Vivado
-
-*(Setup guide coming soon)*
-
-## Vitis
-
-*(Setup guide coming soon)*
-
----
-
-## Other Software (Optional)
-
-Not required to complete the labs, but potentially useful:
-
-| Tool | Resource |
-|---|---|
-| **UVM (Verilator)** | [UVM Guide by Chipverify](https://chipverify.com/uvm/uvm-installation) |
-| **Cocotb** | [Cocotb Documentation](https://docs.cocotb.org/en/stable/#) |
-
----
-
-# Required Knowledge
-
-Students should have a solid understanding of:
-
-- **Verilog / SystemVerilog** — hardware description and sequential logic design
-- **C / C++** — software running on the ARM processor side
-- **Linux shell commands** — navigating and scripting in a Linux environment
-- **Mathematics** — ODEs, PDEs, numerical methods, parallel computation
-- **Python** *(optional but a plus)*
 
 ---
 
