@@ -36,7 +36,7 @@ A significant portion of ECE 5760 work lives on GitHub. Private repos will be cr
 - Track your progress
 - Respond to [Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/learning-about-issues/quickstart) you open in your repo (link an issue to a private EdStem post for TA assistance)
 
-If you need to brush up on Git/GitHub fundamentals, see our quick overview [here]().
+If you need to brush up on Git/GitHub fundamentals, see our quick overview [here](github.md).
 
 ---
 
